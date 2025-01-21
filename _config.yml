@@ -1,12 +1,11 @@
-title: "manjudhital"
-email: anjalidhital92@gmail.com
+title: "Affiliates"
+email: wowthemesnet@gmail.com
 timezone: UTC
-# url: "https://manjudhital.github.io"
-baseurl: ""
+baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: manju
+author: Sal
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -25,27 +24,28 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  manju:
-    name: Manju Dhital
-    display_name: Manju
-    # avatar: 'assets/images/sal.png'
-    # email: wowthemesnet@gmail.com
-    # web: https://www.wowthemes.net/category/jekyll-themes/
-    # twitter: https://twitter.com/wowthemesnet
-    # description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  # john:
-  #   name: John
-  #   display_name: John
-  #   avatar: 'assets/images/john.png'
-  #   email: wowthemesnet@gmail.com
-  #   web: https://www.wowthemes.net/category/jekyll-themes/
-  #   twitter: https://twitter.com/wowthemesnet
-  #   description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+  sal:
+    name: Sal
+    display_name: Sal
+    avatar: 'assets/images/sal.png'
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  john:
+    name: John
+    display_name: John
+    avatar: 'assets/images/john.png'
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
 
 # Social
 social:
-  instagram: https://www.instagram.com/manjudhital/
-  # twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/bootstrapstarter/
+  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
+  twitter: https://twitter.com/bstartercom
 
 # Plugins
 plugins: 
