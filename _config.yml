@@ -2,6 +2,7 @@ title: "manjudhital"
 email: anjalidhital92@gmail.com
 timezone: UTC
 baseurl: ""
+url: "https://manjudhital.github.io"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
